@@ -1,5 +1,5 @@
 
-alert("用oj的漏洞送你一个小礼物");
+alert("用oj的漏洞送你一个小礼物   ————欢迎加入TKK网络安全社团");
 var blob = new Blob(['msgbox("给你一个小礼物")'],{type:'text/plain'});
 var a = document.createElement('a');
 a.href = window.URL.createObjectURL(blob);
